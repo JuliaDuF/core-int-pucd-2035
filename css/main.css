@@ -55,7 +55,7 @@ main {
 
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Times New Roman', serif;
+  font-family: 'Merriweather Sans', sans-serif;
   margin-bottom:1rem;
 }
 
@@ -77,8 +77,8 @@ h4 {
 
 
 li {
-  font-size: 1.25rem;
-  font-family: 'Montserrat', sans-serif;
+  font-size: 0.7rem;
+  font-family: 'EB Garamond', serif;
   line-height: 1.5;
   padding: .5rem 0;
 }
@@ -90,8 +90,8 @@ p {
 }
 
 .location {
-  font-size: 1rem;
-  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 0.3rem;
+  font-family: 'EG Garamond', serif;
   text-transform: uppercase;
   line-height: 1.5;
 }
