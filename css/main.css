@@ -55,7 +55,7 @@ main {
 
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Times New Roman', serif;
+  font-family: 'Rye', serif;
   margin-bottom:0.5rem;
 }
 
@@ -90,10 +90,10 @@ p {
 }
 
 .location {
-  font-size: 0.3rem;
-  font-family: 'EG Garamond', serif;
+  font-size: 0.6rem;
+  font-family: 'Helvetica', san-serif;
   text-transform: uppercase;
-  line-height: 1.5;
+  line-height: 1.0;
 }
 
 img {
