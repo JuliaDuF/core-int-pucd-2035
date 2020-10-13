@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-  font-size:2.5rem;
+  font-size:2.75rem;
   font-weight:800;
 }
 h2 {
@@ -77,21 +77,21 @@ h4 {
 
 
 li {
-  font-size: 0.7rem;
+  font-size: 0.6rem;
   font-family: 'EB Garamond', serif;
   line-height: 1.5;
   padding: .5rem 0;
 }
 
 p {
-  font-size: 0.5rem;
+  font-size: 0.6rem;
   line-height: 1.5;
   margin-bottom:1rem;
 }
 
 .location {
-  font-size: 0.6rem;
-  font-family: 'Helvetica', san-serif;
+  font-size:1.0rem;
+  font-family: 'Helvetica', sans-serif;
   text-transform: uppercase;
   line-height: 1.0;
 }
@@ -102,7 +102,7 @@ img {
 }
 
 figcaption {
-  font-size: .5rem;
-  font-family: 'EG Garamond', serif;
+  font-size: 0.6rem;
+  font-family: 'Helvetica', sans-serif;
   padding-top: 1rem;
 }
