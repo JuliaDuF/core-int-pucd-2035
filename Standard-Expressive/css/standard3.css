@@ -24,12 +24,12 @@ main {
   grid-template-columns: 2fr 5fr ;
   grid-auto-rows:min-content;
   grid-gap:2rem;
-  width: 20vw;
+  width: 40vw;
   margin: 0 auto;
 }
 
 .intro-block {
-  grid-column:5 / 5;
+  grid-column:3 / 5;
 }
 
 .statement {
