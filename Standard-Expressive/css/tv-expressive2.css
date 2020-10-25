@@ -40,7 +40,7 @@ grid-gap:2rem;
 
 .article {
   grid-column:6 / 8;
-  grid-row:9 / 11;
+  grid-row:4 / 11;
 }
 
 .article-2 {
