@@ -123,9 +123,9 @@ p {
 }
 
 .pull-quote {
-  grid-column:3 / 9;
+  grid-column:8 / 9;
   grid-row:1 / 11;
-  font-size: 6rem;
+  font-size: 4rem;
   font-family: 'Lora', serif;
   line-height: 1.5;
   font-weight:400;
