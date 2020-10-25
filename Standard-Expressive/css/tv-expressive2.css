@@ -39,7 +39,7 @@ grid-gap:2rem;
 }
 
 .article {
-  grid-column:2 / 4;
+  grid-column:3 / 8;
   grid-row:3 / 7;
 }
 
@@ -48,12 +48,12 @@ grid-gap:2rem;
   grid-row:4 / 7;
 }
 .article-3 {
-  grid-column:3 / 5;
+  grid-column:3 / 10;
   grid-row:5 / 7;
 }
 .article-4 {
-  grid-column:8 / 11;
-  grid-row:1 / 7;
+  grid-column:3 / 11;
+  grid-row:6 / 7;
 }
 .article-5 {
   grid-column:3 / 11;
@@ -125,7 +125,7 @@ p {
 .pull-quote {
   grid-column:3 / 9;
   grid-row:1 / 11;
-  font-size: 4rem;
+  font-size: 6rem;
   font-family: 'Lora', serif;
   line-height: 1.5;
   font-weight:400;
