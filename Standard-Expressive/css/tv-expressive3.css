@@ -27,14 +27,14 @@ main {
 grid-template-columns: repeat(11, 1fr);  
 grid-template-rows: repeat(11, min-content);  
 grid-gap:2rem;
-  max-width: 70vw;
+  max-width: 90vw;
   margin: 0 auto;
 }
 
 
 
 .intro-block {
-  grid-column:8 / 9;
+  grid-column:12 / 13;
   grid-row:3 / 8;
 }
 
