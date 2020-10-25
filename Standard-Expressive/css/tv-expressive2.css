@@ -49,11 +49,11 @@ grid-gap:2rem;
 }
 .article-3 {
   grid-column:4 / 5;
-  grid-row:3.5 / 7;
+  grid-row:3.75 / 7;
 }
 .article-4 {
   grid-column:11 / 11;
-  grid-row:4 / 7;
+  grid-row:1 / 7;
 }
 .article-5 {
   grid-column:3 / 11;
