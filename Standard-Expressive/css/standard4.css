@@ -33,11 +33,11 @@ main {
 }
 
 .statement {
-  grid-column:1 / 8;
+  grid-column:1 / 4;
 }
 
 .projects {
-  grid-column:1 / 4;
+  grid-column:1 / 8;
 }
 
 .item {
