@@ -24,18 +24,18 @@ a:hover {
 
 main {
   display:grid;
-grid-template-columns: repeat(11, 4fr);  
+grid-template-columns: repeat(11, 1fr);  
 grid-template-rows: repeat(11, min-content);  
 grid-gap:2rem;
-  max-width: 30vw;
+  max-width: 70vw;
   margin: 0 auto;
 }
 
 
 
 .intro-block {
-  grid-column:1 / 1;
-  grid-row:9 / 9;
+  grid-column:3 / 3;
+  grid-row:4 / 8;
 }
 
 .article {
@@ -44,12 +44,12 @@ grid-gap:2rem;
 }
 
 .article-2 {
-  grid-column:5 / 9;
-  grid-row:7 / 7;
+  grid-column:3 / 9;
+  grid-row:4 / 7;
 }
 .article-3 {
-  grid-column:14 / 14;
-  grid-row:2 / 2;
+  grid-column:3 / 10;
+  grid-row:5 / 7;
 }
 .article-4 {
   grid-column:3 / 11;
