@@ -24,8 +24,8 @@ a:hover {
 
 main {
   display:grid;
-grid-template-columns: repeat(11, 1fr);  
-grid-template-rows: repeat(11, min-content);  
+grid-template-columns: repeat(20, 1fr);  
+grid-template-rows: repeat(20, min-content);  
 grid-gap:2rem;
   max-width: 70vw;
   margin: 0 auto;
