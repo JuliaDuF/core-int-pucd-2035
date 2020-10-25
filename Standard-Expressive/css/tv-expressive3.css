@@ -34,7 +34,7 @@ grid-gap:2rem;
 
 
 .intro-block {
-  grid-column:3 / 5;
+  grid-column:6 / 7;
   grid-row:3 / 8;
 }
 
