@@ -39,7 +39,7 @@ grid-gap:2rem;
 }
 
 .article {
-  grid-column:3 / 8;
+  grid-column:4 / 5;
   grid-row:3 / 7;
 }
 
