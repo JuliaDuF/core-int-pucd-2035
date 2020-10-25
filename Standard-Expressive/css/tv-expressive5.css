@@ -24,18 +24,18 @@ a:hover {
 
 main {
   display:grid;
-grid-template-columns: repeat(11, 1fr);  
+grid-template-columns: repeat(3, 0fr);  
 grid-template-rows: repeat(11, min-content);  
 grid-gap:2rem;
-  max-width: 70vw;
+  max-width: 100vw;
   margin: 0 auto;
 }
 
 
 
 .intro-block {
-  grid-column:1 / 5;
-  grid-row:4 / 8;
+  grid-column:3 / 5;
+  grid-row:7 / 8;
 }
 
 .article {
@@ -123,9 +123,9 @@ p {
 }
 
 .pull-quote {
-  grid-column:3 / 9;
+  grid-column:9 / 9;
   grid-row:1 / 11;
-  font-size: 6rem;
+  font-size: 5rem;
   font-family: 'Lora', serif;
   line-height: 1.5;
   font-weight:400;
