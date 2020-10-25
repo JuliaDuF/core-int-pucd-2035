@@ -40,12 +40,12 @@ grid-gap:2rem;
 
 .article {
   grid-column:1 / 8;
-  grid-row:3 / 7;
+  grid-row:1 / 7;
 }
 
 .article-2 {
   grid-column:3 / 9;
-  grid-row:4 / 7;
+  grid-row:3 / 7;
 }
 .article-3 {
   grid-column:5 / 10;
@@ -53,7 +53,7 @@ grid-gap:2rem;
 }
 .article-4 {
   grid-column:7 / 11;
-  grid-row:6 / 7;
+  grid-row:7 / 7;
 }
 .article-5 {
   grid-column:3 / 11;
