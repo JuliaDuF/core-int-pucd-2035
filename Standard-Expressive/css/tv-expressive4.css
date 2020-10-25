@@ -34,18 +34,18 @@ grid-gap:2rem;
 
 
 .intro-block {
-  grid-column:1 / 5;
-  grid-row:4 / 8;
+  grid-column:4 / 5;
+  grid-row:9 / 8;
 }
 
 .article {
   grid-column:1 / 8;
-  grid-row:2 / 7;
+  grid-row:1 / 8;
 }
 
 .article-2 {
   grid-column:3 / 9;
-  grid-row:5 / 7.5;
+  grid-row:5 / 8;
 }
 .article-3 {
   grid-column:5 / 10;
