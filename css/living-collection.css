@@ -116,6 +116,15 @@ p {
   color: #FFD0DC;
 }
 
+.titletwo {
+  font-family: 'Work Sans', sans-serif;
+  line-height: 1;
+  font-weight:700;
+  left:50%;
+  line-height: 2rem;
+  color: #FFD0DC;
+}
+
 .intro-block {
   grid-column:1 / 3;
 }
