@@ -63,7 +63,7 @@ h1 {
   font-size:3.5rem;
   font-weight:700;
   font-style: italic;
-  left:50%;
+
 }
 h2 {
   font-size:1.5rem;
@@ -108,7 +108,7 @@ p {
   font-family: 'Work Sans', sans-serif;
   line-height: 1;
   font-weight:700;
-  mar
+  left:50%;
 }
 
 .intro-block {
