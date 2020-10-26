@@ -63,7 +63,6 @@ h1 {
   font-size:3.5rem;
   font-weight:700;
   text-align:center;
-  line-height:0.5rem:;
 
 }
 h2 {
@@ -111,6 +110,7 @@ p {
   line-height: 1;
   font-weight:700;
   left:50%;
+  line-height: 1.5rem;
 }
 
 .intro-block {
