@@ -27,7 +27,7 @@ a:hover {
 
 
     main {
-        max-width:90em;
+        max-width:100rem;
         margin:0 auto;
     }
 
@@ -45,7 +45,7 @@ img {
 
 
     .grid-item {
-  font-size: 1em;
+  font-size: 1rem;
   text-align: center;
   padding-top:1rem;
 
