@@ -15,8 +15,14 @@ body {
 }
 
 a {
-  text-decoration: underline;
+  text-decoration: none;
   color: #ae7f3d;
+  font-family: 'Work Sans', sans-serif;
+  line-height: 1;
+  font-weight:700;
+  left:50%;
+  line-height: 1.2rem;
+  color: #FFD0DC;
 }
 
 a:hover {
