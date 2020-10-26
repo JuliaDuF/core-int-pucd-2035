@@ -75,7 +75,8 @@ h3 {
 
 }
 h4 {
-  font-size:1rem;
+  font-size:0.9rem;
+  text-align:center;
 }
 
 
@@ -120,7 +121,7 @@ p {
 }
 
 .margin {
-  margin-bottom: 3rem;
+  margin-bottom: 5rem;
 }
 
 .topimage {
