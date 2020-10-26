@@ -27,8 +27,8 @@ a:hover {
 
 
     main {
-        max-width:100rem;
-        margin:0 auto;
+        max-width:150rem;
+        margin:3rem;
     }
 
 .grid-set {
@@ -94,7 +94,7 @@ li {
 }
 
 .exhibit-title {
-  color:#777;
+  color:#FFD0DC;
 }
 
 
@@ -119,5 +119,5 @@ p {
 }
 
 .margin {
-  margin-bottom:3rem;
+  margin-bottom:5rem;
 }
