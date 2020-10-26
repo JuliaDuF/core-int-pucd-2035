@@ -63,7 +63,6 @@ h1 {
   font-size:3.5rem;
   font-weight:700;
   text-align:center;
-  text-decoration-color: pink;
 
 }
 h2 {
@@ -112,6 +111,7 @@ p {
   font-weight:700;
   left:50%;
   line-height: 4rem;
+  text-decoration-color: pink;
 }
 
 .intro-block {
