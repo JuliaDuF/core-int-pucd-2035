@@ -32,7 +32,7 @@ function draw() {
     x = beginX + pct * distX;
     y = beginY + pow(pct, exponent) * distY;
   }
-  fill(255);
+  fill(0);
   ellipse(x, y, 20, 20);
 }
 
