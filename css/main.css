@@ -11,18 +11,18 @@ body {
 
 a {
   text-decoration: none;
-  color: #FFD0DC;
+  color: #F779AB;
   font-family: 'Work Sans', sans-serif;
   line-height: 1;
   font-weight:700;
   left:50%;
   line-height: 1.2rem;
-  color: #FFFFFF;
+  color: #F779AB;
 }
 
 a:hover {
   text-decoration: none;
-  color: #F779AB;
+  color: #FFD0DC;
 }
 
 main {
