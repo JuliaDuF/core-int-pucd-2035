@@ -14,13 +14,13 @@ let current;
 let previous;
 
 function setup() {
-  createCanvas(720, 400);
+  createCanvas(720, 720);
   current = createVector(0,0);
   previous = createVector(0,0);
 };
 
 function draw() {
-  background(200);
+  background(250);
   
   // If it's time for a new point
   if (millis() > next && painting) {
