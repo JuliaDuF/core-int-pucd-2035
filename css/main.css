@@ -25,10 +25,10 @@ a:hover {
 
 main {
   display:grid;
-  grid-template-columns: 1fr ;
+  grid-template-columns
   grid-auto-rows:min-content;
   grid-gap:2rem;
-  width: 80vw;
+  width: 120vw;
   margin: 0 auto;
 }
 
