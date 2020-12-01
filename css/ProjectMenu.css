@@ -35,6 +35,7 @@ main {
 
 .intro-block {
   grid-column:1 / 2;
+  display: center;
 }
 
 .statement {
