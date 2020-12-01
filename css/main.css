@@ -125,3 +125,11 @@ figcaption {
   line-height: 0.5rem;
   color: #FFD0DC;
 }
+
+.title {
+  font-family: 'Forum', cursive;
+  line-height: 1;
+  font-weight:800;
+  line-height: 2.75rem;
+  color: #FFFFFF;
+}
