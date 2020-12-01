@@ -8,7 +8,7 @@ body {
   padding:0rem;
   color:#FFFFFF;
   width: 100vw;
-  height: 50vw;
+  height: 60vw;
 }
 
 a {
@@ -214,5 +214,5 @@ figcaption {
   line-height: 0.7rem;
   color: #242320;
   margin-left: 5rem;
-  
+
 }
