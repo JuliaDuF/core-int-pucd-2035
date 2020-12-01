@@ -42,7 +42,7 @@ main {
 }
 
 .projects {
-  grid-column:2 / 3;
+  grid-column:3 / 3;
 }
 
 .item {
