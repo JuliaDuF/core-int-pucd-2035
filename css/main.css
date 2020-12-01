@@ -42,11 +42,11 @@ main {
 }
 
 .projects {
-  grid-column:4 / 5;
+  grid-column:3 / 5;
 }
 
 .aboutme {
-  grid-column:2 / 4;
+  grid-column:4 / 5;
 }
 
 .item {
