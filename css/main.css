@@ -13,16 +13,15 @@ body {
 
 a {
   text-decoration: none;
-  color: #F779AB;
   font-family: 'Sen', sans-serif;
   font-weight:700;
   line-height: 1rem;
-  color: #F779AB;
+  color: #242320;
 }
 
 a:hover {
   text-decoration: none;
-  color: #FFD0DC;
+  color: #FFFFFF;
 }
 
 main {
@@ -156,3 +155,11 @@ figcaption {
   background-size: 100%;
 }
 
+.subtitle {
+  font-family: 'Sen', sans-serif;
+  font-weight:-200;
+  font-size: 3.5rem;
+  line-height: 0.8rem;
+  color: #242320;
+  margin-left: 5rem;
+}
