@@ -61,6 +61,7 @@ main {
 h1, h2, h3, h4, h5 {
   font-family: 'Rye', serif;
   margin-bottom:0.5rem;
+  color: #FFD0DC;
 }
 
 h1 {
