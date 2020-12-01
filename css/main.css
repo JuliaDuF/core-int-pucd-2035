@@ -91,6 +91,7 @@ li {
   font-family: 'Libre Calson Text', serif;
   line-height: 0.5rem;
   padding: .5rem 0;
+  display:grid;
 }
 
 p {
