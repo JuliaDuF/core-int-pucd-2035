@@ -7,6 +7,8 @@ html {
 body {
   padding:0rem;
   color:#333F48;
+  width: 100vw;
+  height: 54vw;
 }
 
 a {
@@ -30,8 +32,6 @@ main {
   grid-gap:2rem;
   margin: 0 auto;
   margin-top: 3rem;
-  width: 100vw;
-  height: 54vw;
 }
 
 .intro-block {
