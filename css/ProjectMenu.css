@@ -51,11 +51,11 @@ main {
 }
 
 .subdivision1 {
-  grid-column: 3 / 5;
+  grid-column: 4 / 5;
 }
 
 .subdivision2 {
-  grid-column: 3 / 5;
+  grid-column: 4 / 5;
 }
 
 .item {
