@@ -68,6 +68,11 @@ main {
   grid-row: 3 / 4;
 }
 
+.subdivision4 {
+  grid-column: 1 / 2;
+  grid-row: 2 / 2;
+}
+
 .item {
   grid-column:1;
   border-top: 1px solid #ccc;
