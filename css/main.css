@@ -2,8 +2,6 @@ html {
   font-size: 2rem;
   font-family: 'Merriweather', serif;
   background-color: #FFFFFF;
-  width: 100vw;
-  height: 100vw;
 }
 
 body {
@@ -32,6 +30,8 @@ main {
   grid-gap:2rem;
   margin: 0 auto;
   margin-top: 2rem;
+  width: 100vw;
+  height: 100vw;
 }
 
 .intro-block {
