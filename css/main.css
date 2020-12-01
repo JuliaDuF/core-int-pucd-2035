@@ -28,8 +28,8 @@ main {
   grid-template-columns
   grid-auto-rows:min-content;
   grid-gap:2rem;
-  width: 90vw;
-  height: 250vw;
+  width: 70vw;
+  height: 200vw;
   margin: 0 auto;
 }
 
