@@ -136,8 +136,8 @@ figcaption {
 }
 
 .intro {
-  height: 120%;
-  width: 120%;
+  height: 100%;
+  width: 100%;
   margin: auto;
   background:url('../img/LUX2.jpg');
   display: table;
