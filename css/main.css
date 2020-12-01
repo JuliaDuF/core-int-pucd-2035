@@ -2,13 +2,13 @@ html {
   font-size: 2rem;
   font-family: 'Merriweather', serif;
   background-color: #FFFFFF;
+  width: 100vw;
+  height: 55vw;
 }
 
 body {
   padding:0rem;
   color:#333F48;
-  width: 100vw;
-  height: 55vw;
 }
 
 a {
@@ -30,8 +30,6 @@ main {
   grid-template-columns
   grid-auto-rows:min-content;
   grid-gap:2rem;
-  width: 100vw;
-  height: 56.4vw;
   margin: 0 auto;
   margin-top: 2rem;
 }
