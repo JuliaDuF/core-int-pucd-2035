@@ -134,3 +134,8 @@ figcaption {
   line-height: 2.5rem;
   color: #FFFFFF;
 }
+
+ #showcase {
+  background-image: url('../img/JT.jpg');
+  height: 100%;
+}
