@@ -61,7 +61,7 @@ main {
 h1, h2, h3, h4, h5 {
   font-family: 'Rye', serif;
   margin-bottom:0.5rem;
-  color: #FFD0DC;
+  color: #FFFFFF;
 }
 
 h1 {
@@ -92,6 +92,7 @@ p {
   font-size: 0.6rem;
   line-height: 1.5;
   margin-bottom:1rem;
+  color: #FFFFFF;
 }
 
 .location {
