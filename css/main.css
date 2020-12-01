@@ -136,6 +136,15 @@ figcaption {
   margin-left: 5rem;
 }
 
+.titleitalic {
+  font-family: 'EG Garamond', italic;
+  font-weight:-200;
+  font-size: 4rem;
+  line-height: 0.8rem;
+  color: #242320;
+  margin-left: 5rem;
+}
+
 .intro {
   height: 100%;
   width: 100%;
