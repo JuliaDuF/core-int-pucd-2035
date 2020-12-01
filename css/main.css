@@ -31,6 +31,7 @@ main {
   width: 100vw;
   height: 56.4vw;
   margin: 0 auto;
+  margin-top: 3rem;
 }
 
 .intro-block {
