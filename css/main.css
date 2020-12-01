@@ -34,12 +34,15 @@ main {
 }
 
 .intro-block {
+  grid-column:1 / 1;
 }
 
 .statement {
+  grid-column:1 / 1;
 }
 
 .projects {
+  grid-column:1 / 1;
 }
 
 .item {
@@ -128,7 +131,7 @@ figcaption {
   font-family: 'Forum', cursive;
   font-weight:-200;
   color: #F779AB;
-  font-size: 6rem;
+  font-size: 4rem;
   line-height: 2.5rem;
   color: #FFFFFF;
 }
