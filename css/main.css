@@ -130,10 +130,9 @@ figcaption {
 .title {
   font-family: 'Forum', cursive;
   font-weight:-200;
-  color: #F779AB;
   font-size: 4rem;
   line-height: 2.5rem;
-  color: #FFFFFF;
+  color: #000000;
 }
 
 .intro {
