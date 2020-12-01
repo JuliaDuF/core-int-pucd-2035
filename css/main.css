@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  padding:5rem 0;
+  padding:0rem;
   color:#333F48;
 }
 
@@ -137,5 +137,5 @@ figcaption {
 
  #showcase {
   background-image: url('../img/JT.jpg');
-  height: 100%;
+  height: 100vh;
 }
