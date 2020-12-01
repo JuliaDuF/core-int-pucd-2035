@@ -34,7 +34,7 @@ main {
 }
 
 .intro-block {
-  grid-column:1 / 1;
+  grid-column:1 / 2;
 }
 
 .statement {
