@@ -141,7 +141,8 @@ figcaption {
   width: 100%;
   margin: auto;
   background:url('../img/JT.jpg');
+  display: table;
   top: 0;
-  background-size: cover;
+  background-size: 100%;
 }
 
