@@ -29,7 +29,7 @@ main {
   grid-auto-rows:min-content;
   grid-gap:2rem;
   width: 100vw;
-  height: 200vw;
+  height: 150vw;
   margin: 0 auto;
 }
 
