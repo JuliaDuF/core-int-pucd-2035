@@ -34,15 +34,12 @@ main {
 }
 
 .intro-block {
-  grid-column:1 / 1;
 }
 
 .statement {
-  grid-column:1 / 1;
 }
 
 .projects {
-  grid-column:1 / 1;
 }
 
 .item {
