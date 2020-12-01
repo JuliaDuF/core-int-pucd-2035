@@ -133,7 +133,7 @@ figcaption {
   font-size: 3.5rem;
   line-height: 0.8rem;
   color: #242320;
-  grid-column:1 / 2;
+  grid-column:2 / 3;
 }
 
 .titleitalic {
