@@ -34,7 +34,7 @@ main {
 }
 
 .intro-block {
-  grid-column:1 / 1;
+  grid-column:2 / 3;
 }
 
 .statement {
@@ -42,7 +42,7 @@ main {
 }
 
 .projects {
-  grid-column:1 / 1;
+  grid-column:2 / 3;
 }
 
 .item {
