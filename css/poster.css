@@ -1,6 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400..900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=Archivo+Narrow&family=Bowlby+One&family=Oswald:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&display=swap');
 
 /*! minireset.css v0.0.6 | MIT License */ html,body,p,ol,ul,li,dl,dt,dd,blockquote,figure,fieldset,legend,textarea,pre,iframe,hr,h1,h2,h3,h4,h5,h6{margin:0;padding:0}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}ul{list-style:none}button,input,select,textarea{margin:0}html{box-sizing:border-box}*,*::before,*::after{box-sizing:inherit}img,video{height:auto;max-width:100%}iframe{border:0}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}td:not([align]),th:not([align]){text-align:left}
 
@@ -27,7 +28,7 @@ body {
 
 .grid-set-right {
   display: grid;
-  grid-template-columns: 1fr 2fr 4fr 8fr 16fr;
+  grid-template-columns: 4fr 1fr 2fr 1fr 2fr 2fr 2fr 1fr 3fr 2fr;
   grid-auto-rows: min-content;
   grid-gap:0rem;
   padding:0;
@@ -66,7 +67,18 @@ article {
 .gsr-5 {
   grid-column:5;
 }
-
+.gsr-6 {
+  grid-column:6;
+}
+.gsr-7 {
+  grid-column:7;
+}
+.gsr-8 {
+  grid-column:8;
+}
+.gsr-9 {
+  grid-column:9;
+}
 
 h1, h2, h3, h4, h5 {
   font-family: 'Work Sans', serif;
@@ -108,10 +120,62 @@ h5 {
 .vertical-text-top {
   writing-mode: vertical-rl;
   text-orientation: mixed;
+
 }
-
-
-
+.bowlby-one-p {
+  font-family:'bowlby-one', cursive;
+  font-size: 7rem;
+  font-weight:
+  line-height:
+}
+.owswald-e {
+  font-family:'oswald', sans-serif;
+  font-size: 3rem;
+  font-weight:
+  line-height:
+}
+.owswald-r {
+  font-family:'oswald', sans-serif;
+  font-size: 9rem;
+  font-weight:
+  line-height:
+}
+.anton-c {
+  font-family:'Anton', sans-serif;
+  font-size: 2rem;
+  font-weight:
+  line-height:
+}
+.pathway-gothic-one-u {
+  font-family:'Pathway Gothic One', sans-serif;
+  font-size: 12rem;
+  font-weight:
+  line-height:
+}
+.oswald-s {
+  font-family:'oswald', sans-serif;
+  font-size: 3rem;
+  font-weight:
+  line-height:
+}
+.pathway-gothic-one-s {
+  font-family:'Pathway Gothic One', sans-serif;
+  font-size: 1rem;
+  font-weight:
+  line-height:
+}
+.archivo-black-i {
+  font-family:'Archivo Black', sans-serif;
+  font-size: 7rem;
+  font-weight:
+  line-height:
+}
+.archivo-black-e {
+  font-family:'Archivo Black', sans-serif;
+  font-size: 2rem;
+  font-weight:
+  line-height:
+}
 
 
 /* ===== == = === 48em (768px) === = == ===== */
