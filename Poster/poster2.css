@@ -236,12 +236,14 @@ figcaption {
   font-family: 'Roboto Slab', serif;
   font-weight: 600;
   font-size: 6rem;
+  text-align:center;
 }
 
 .nysmall{
   font-family: 'Roboto Slab', serif;
   font-weight: 300;
   font-size: 3rem;
+  text-align:center;
 }
 
 
