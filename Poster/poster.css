@@ -54,6 +54,7 @@ main {
   display: bottom;
 }
 
+
 .statement {
   grid-column:1 / 1;
 }
@@ -234,7 +235,11 @@ figcaption {
   font-size: 7rem;
 }
 
-.nysmall
+.nysmall{
+  font-family: 'Roboto Slab', serif;
+  font-weight: 300;
+  font-size: 4rem;
+}
 
 
 /* ===== == = === 48em (768px) === = == ===== */
