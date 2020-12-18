@@ -26,6 +26,7 @@ a:hover {
 
 main {
   display:grid;
+  max-width: min-content;
   grid-template-columns
   grid-auto-rows:min-content;
   grid-gap:1rem;
@@ -35,27 +36,27 @@ main {
 }
 
 .intro-block {
-  grid-column:1 / 1;
+  grid-column:1 / 3;
   display: center;
-  grid-row: 1 / 5;
+  grid-row: 1 / 2;
 }
 
 .intro-block2 {
-  grid-column:2 / 3;
+  grid-column:4 / 5;
   display: center;
-  grid-row: 1 / 5;
-}
-
-.intro-block3 {
-  grid-column:3 / 3;
-  display: bottom;
   grid-row: 1 / 4;
 }
 
-.intro-block4 {
-  grid-column:1 / 1;
+.intro-block3 {
+  grid-column:5 / 5;
   display: bottom;
-  grid-row: 2 / 3;
+  grid-row: 1 / 2;
+}
+
+.intro-block4 {
+  grid-column:2 / 2;
+  display: bottom;
+  grid-row: 4 / 4;
 }
 
 
@@ -98,21 +99,6 @@ main {
   grid-column:1;
   border-top: 1px solid #ccc;
   padding: 1rem 0;
-}
-
-.iloveny1{
-  position: absolute;
-  top: -50px;
-  left: 0px;
-  animation-name: iloveny;
-  animation-duration: 3s;
-  animation-fill-mode: both;
-  animation-iteration-count: infinite;
-}
-
-@keyframes drive{
-  from{ transform: translateX(-200px) }
-  to{ transform: translateX(1000px); }
 }
 
 
@@ -161,7 +147,8 @@ p {
 }
 
 img {
-  display: block;
+  display: inline-grid;
+  text-align: right;
   margin: 0 auto;
 }
 
@@ -251,6 +238,7 @@ figcaption {
   font-family: 'Roboto Slab', serif;
   font-weight: 600;
   font-size: 6rem;
+  text-align:left;
 }
 
 .nysmall{
