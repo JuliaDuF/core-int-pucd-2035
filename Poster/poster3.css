@@ -147,7 +147,7 @@ p {
 }
 
 img {
-  display: inline-grid;
+  display: block;
   text-align: right;
   margin: 0 auto;
 }
