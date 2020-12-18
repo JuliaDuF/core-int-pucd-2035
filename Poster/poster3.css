@@ -29,7 +29,7 @@ main {
   max-width: min-content;
   grid-template-columns
   grid-auto-rows:min-content;
-  grid-gap:3rem;
+  grid-gap:2rem;
   margin: 0 auto;
   margin-top: 4rem;
   margin-bottom: 4rem;
