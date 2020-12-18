@@ -5,7 +5,8 @@ html {
 }
 
 body {
-  padding:0rem;
+  padding-top:2rem;
+  padding-bottom:3rem;
   color:#FFFFFF;
   width: auto;
   height: auto;
@@ -42,15 +43,16 @@ main {
 .intro-block2 {
   grid-column:1 / 2;
   display: center;
+  text-align: left;
 }
 
 .intro-block3 {
-  grid-column:4 / 4;
+  grid-column:2 / 2;
   display: bottom;
 }
 
 .intro-block4 {
-  grid-column:6 / 2;
+  grid-column:2 / 2;
   display: bottom;
 }
 
@@ -232,7 +234,7 @@ figcaption {
 .nylarge {
   font-family: 'Roboto Slab', serif;
   font-weight: 600;
-  font-size: 7rem;
+  font-size: 6rem;
   text-align:center;
 }
 
