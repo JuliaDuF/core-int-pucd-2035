@@ -29,10 +29,10 @@ main {
   max-width: min-content;
   grid-template-columns
   grid-auto-rows:min-content;
-  grid-gap:1rem;
+  grid-gap:3rem;
   margin: 0 auto;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
 }
 
 .intro-block {
@@ -42,21 +42,21 @@ main {
 }
 
 .intro-block2 {
-  grid-column:4 / 5;
+  grid-column:2 / 3;
   display: center;
   grid-row: 1 / 4;
 }
 
 .intro-block3 {
-  grid-column:5 / 5;
+  grid-column:3 / 3;
   display: bottom;
   grid-row: 1 / 2;
 }
 
 .intro-block4 {
-  grid-column:2 / 2;
+  grid-column:1 / 5;
   display: bottom;
-  grid-row: 4 / 4;
+  grid-row: 2 / 2;
 }
 
 
@@ -237,14 +237,14 @@ figcaption {
 .nylarge {
   font-family: 'Roboto Slab', serif;
   font-weight: 600;
-  font-size: 6rem;
+  font-size: 4rem;
   text-align:left;
 }
 
 .nysmall{
   font-family: 'Roboto Slab', serif;
   font-weight: 300;
-  font-size: 3rem;
+  font-size: 2rem;
 
 }
 
